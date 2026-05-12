@@ -1,0 +1,23 @@
+=============================
+Name: 	Joshua Douglas Thomas
+Date: 	May 12, 2026
+Title:	"War" Card Game - Prototype "Delta Release"
+=============================
+Synopsis
+=============================
+This is a playing-cards 'Game' in a JavaScript-enabled Browser.
+A Random card is drawn from each Computer hand, and the User may
+drag a card into the Trick, at the bottom of your screen.
+Once all three Cards are in Place, Evaluate the Trick to
+determine who won the War and accumulate Points!
+
+Low score wins.
+=============================
+Order of Play
+=============================
+1.	Click on "Test Deal" to populate the cards into Hands.
+2.	Click on "Place A Card For Player 1".
+3.	Click on "Place A Card For Player 2".
+4.	Drag any card from Player 3's Hand into the Trick.
+5.	Click on "Evaluate The Trick!".
+6.	Need more cards? Click on "Test Deal" until there are no more cards in the Deck.
